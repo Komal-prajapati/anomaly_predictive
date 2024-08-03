@@ -23,22 +23,6 @@ The dataset contains the following columns:
 - **OSF:** Overstrain Failure (binary indicator).
 - **RNF:** Random Failure (binary indicator).
 
-## Project Structure
-
-```
-├── data
-│   └── your_dataset.csv     # The dataset file
-├── notebooks
-│   └── anomaly_detection.ipynb   # Jupyter notebook for analysis and model development
-├── src
-│   └── data_preprocessing.py    # Script for data preprocessing
-│   └── anomaly_detection.py     # Script for anomaly detection model
-├── README.md                    # Project description and instructions
-├── requirements.txt             # Required packages and dependencies
-└── visualization
-    └── plots                    # Directory for storing plots and visualizations
-```
-
 ## Getting Started
 
 ### Prerequisites
@@ -52,8 +36,8 @@ Ensure you have Python 3.x installed. Create a virtual environment and install t
 1. **Clone the Repository:**
 
 
-git clone https://github.com/your_username/anomaly-detection-predictive-maintenance.git
-cd anomaly-detection-predictive-maintenance
+git clone https://github.com/Komal-prajapati/anomaly_predictive.git
+cd anomaly_predictive
 
 2. **Prepare the Data:**
 
